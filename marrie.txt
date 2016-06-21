@@ -1,3 +1,4 @@
 this is my empty repository
 another line
-
+the third line
+fourth line to be added to the directory
